@@ -1,4 +1,6 @@
 # Connect-Four
+<img width="502" height="438" alt="image" src="https://github.com/user-attachments/assets/2fbdaf07-7102-418d-8f6d-14b62f274686" />
+
 A two-player terminal-based Connect Four game built in C++. Players take turns dropping pieces into a 6x7 board, competing to connect four in a row horizontally, vertically, or diagonally.
 Features
 
